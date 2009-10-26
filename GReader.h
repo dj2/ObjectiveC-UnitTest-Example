@@ -1,5 +1,5 @@
 //
-//  main.m
+//  GReader.h
 //  UnitTesting
 //
 //  Created by dan sinclair on 09-10-26.
@@ -8,7 +8,9 @@
 
 #import <Cocoa/Cocoa.h>
 
-int main(int argc, char *argv[])
-{
-    return NSApplicationMain(argc,  (const char **)argv);
+
+@interface GReader : NSObject {
+
 }
+
+@end
