@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'UnitTesting' target in the 'UnitTesting' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
